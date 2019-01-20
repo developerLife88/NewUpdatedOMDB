@@ -43,10 +43,8 @@
   /*  border:1px solid white  !important;  */
     color:white!important;
     font-weight:bold !important;
-    height:40px !important; 
+    height:25px !important; 
     background:transparent !important;
-    border-radius: 11px;
-    box-shadow: 0 0 11px gray;
     width:30%; display:inline-block; float:right;
     margin-left:7px;
 }
