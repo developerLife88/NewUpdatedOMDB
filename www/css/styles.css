@@ -6,6 +6,8 @@
 
 .navbar-inner, .toolbar-inner{
     background: rgb(7, 7, 7) !important;
+        padding-top: 15px;
+
 }
 
 
